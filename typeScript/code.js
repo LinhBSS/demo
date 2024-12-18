@@ -76,7 +76,7 @@ var dataDemo = {
     },
     personalInformation: {
         label: {
-            children: "Personal Infomation"
+            children: "Personal Information"
         },
         content: [
             {
@@ -186,7 +186,7 @@ var dataDemo = {
     },
     receiverInformation: {
         label: {
-            children: "Receiver Infomation"
+            children: "Receiver Information"
         },
         content: [
             {
@@ -202,22 +202,22 @@ var dataDemo = {
             after: '</div>',
             children: [
                 {
-                    before: '<p class="receiverInfomation_line">',
+                    before: '<p class="receiverInformation_line">',
                     after: '</p>',
                     children: "name"
                 },
                 {
-                    before: '<p class="receiverInfomation_line">',
+                    before: '<p class="receiverInformation_line">',
                     after: '</p>',
                     children: "position"
                 },
                 {
-                    before: '<p class="receiverInfomation_line">',
+                    before: '<p class="receiverInformation_line">',
                     after: '</p>',
                     children: "companyName"
                 },
                 {
-                    before: '<p class="receiverInfomation_line">',
+                    before: '<p class="receiverInformation_line">',
                     after: '</p>',
                     children: "address"
                 }
